@@ -1,5 +1,5 @@
 # decentralized-board
-This is a decentralized board (回覧板) with IPFS-mini
+This is a decentralized board (回覧板/传阅板) with IPFS-mini
 
 Please try it first:
 English version: https://ipfs.io/ipfs/QmbYGgftfC8j5mpWoDNfN8X29YMfG7EhV4tgp67YaxLzen
